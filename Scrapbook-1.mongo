@@ -1,0 +1,1 @@
+db.users.updateOne({ _id: "5d9f0581473db771b407d85f"}, {$set:{ reset_password_token: "token" }});
